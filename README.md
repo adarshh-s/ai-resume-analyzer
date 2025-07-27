@@ -36,4 +36,4 @@ An AI-powered resume feedback tool built with **React**, **TypeScript**, and int
 
 ---
 
-## 📁 File Structure
+
